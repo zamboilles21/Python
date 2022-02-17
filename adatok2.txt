@@ -1,0 +1,12 @@
+Hanna;13
+Gergely;12
+Gábor;15
+Anett;43
+Barbara;47
+Mónika;44
+Anna;9
+Zsófi;13
+Zéti;3
+Juli;1
+Csabi;5
+Bálint;40
